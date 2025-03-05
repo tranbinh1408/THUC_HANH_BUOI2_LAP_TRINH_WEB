@@ -64,6 +64,7 @@
 		path: '/quan-ly-de-thi',
 		name: 'Quan lý đề thi',
 		icon: 'BookOutlined',
+		component: './QuanLyDeThi',
 	},
 	
 	// DANH MUC HE THONG
