@@ -42,7 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
-
+	{
+		path: '/oan-tu-ti',
+		name: 'OanTuTi',
+		icon: 'OrderedListOutlined',
+		component: './OanTuTi',
+	},
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
