@@ -48,6 +48,24 @@
 		icon: 'OrderedListOutlined',
 		component: './OanTuTi',
 	},
+	{
+		path: '/quan-ly-mon-hoc',
+		name: 'Quản lý môn học',
+		icon: 'BookOutlined',
+		component: './QuanLyMonHoc',
+	},
+	{
+		path: '/quan-ly-cau-hoi',
+		name: 'Quản lý câu hỏi',
+		icon: 'QuestionCircleOutlined',
+		component: './QuanLyCauHoi',
+	},
+	{
+		path: '/quan-ly-de-thi',
+		name: 'Quan lý đề thi',
+		icon: 'BookOutlined',
+	},
+	
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',

@@ -602,3 +602,7 @@ export const createTextLinks = (text: string, targetBlank: boolean = true) => {
 		},
 	);
 };
+
+export const generateId = (): number => {
+	return Math.floor(Math.random() * 1000000);
+};
